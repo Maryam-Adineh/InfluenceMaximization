@@ -1,0 +1,2 @@
+# InfluenceMaximization
+Influence Maximization algorithms
