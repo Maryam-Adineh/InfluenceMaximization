@@ -2,10 +2,10 @@
 Implementation of Influence Maximization algorithms of bellow papers:
 
 Maximum Degree Based Heuristics for Influence Maximization
-link: https://ieeexplore.ieee.org/abstract/document/8566515
+https://ieeexplore.ieee.org/abstract/document/8566515
 
 High Quality Degree Based Heuristics for the Influence Maximization Problem
-link: https://arxiv.org/abs/1904.12164
+https://arxiv.org/abs/1904.12164
 
 This c++ code is compiled on linux OS with gcc version 10.2.0.
 
