@@ -1,16 +1,16 @@
-===============================================================================================================================
-===============================================================================================================================
-===                                                                                                                         ====
-===    Implementation of Influence MAximization algorithms proposed in bellow papers:
-===                                                                                                                         ====
-===    Maximum Degree Based Heuristics for Influence Maximization (https://ieeexplore.ieee.org/abstract/document/8566515)
-===                                                                                                                         ====
-===    High Quality Degree Based Heuristics for the Influence Maximization Problem (https://arxiv.org/abs/1904.12164)
-===                                                                                                                         ====
-===    This c++ code is compiled on linux OS with gcc version 10.2.0.
-===                                                                                                                         ====
-===============================================================================================================================
-===============================================================================================================================
+================================================================================================
+================================================================================================
+===                                                                                         ====
+===     Implementation of Influence MAximization algorithms proposed in bellow papers:      ====
+===                                                                                         ====
+===     Maximum Degree Based Heuristics for Influence Maximization                          ====
+===      link: https://ieeexplore.ieee.org/abstract/document/8566515                        ====
+===                                                                                         ====
+===     High Quality Degree Based Heuristics for the Influence Maximization Problem         ====
+===      link: https://arxiv.org/abs/1904.12164                                             ====
+===                                                                                         ====
+================================================================================================
+================================================================================================
 
 To compile:
 	make InfluenceMaximization
@@ -42,3 +42,5 @@ graph.txt:
 . .   /
 . .  /
 
+output:
+	Three files will be created for selected seeds, execution time and influence spread.
